@@ -1,7 +1,7 @@
 <a href="https://app.daily.dev/peej0199"><img src="./devcard.png?type=wide&r=vg2" width="652" alt="Phelim Lennon's Dev Card"/></a>
 <!--
 **pheliml/pheliml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-[The Wiki] (https://zealous-morocco-6ac.notion.site/Wiki-1acf793a6f4d80ff9bcfddcdf5a0fac0?pvs=74)
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -13,3 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[The Wiki](https://zealous-morocco-6ac.notion.site/Wiki-1acf793a6f4d80ff9bcfddcdf5a0fac0?pvs=74)
