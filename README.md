@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/peej0199"><img src="https://api.daily.dev/devcards/v2/vvrn0b6oAiFajTPLeOi8g.png?type=wide&r=khq" width="652" alt="Phelim Lennon's Dev Card"/></a>
+<a href="https://app.daily.dev/peej0199"><img src="./devcard.png?type=wide&r=khq" width="652" alt="Phelim Lennon's Dev Card"/></a>
 <!--
 **pheliml/pheliml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
